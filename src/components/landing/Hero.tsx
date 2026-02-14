@@ -69,6 +69,13 @@ export default function Hero() {
             >
               View Map
             </Link>
+            <Link 
+              to="/admin" 
+              className="bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold 
+                         border-2 border-blue-600 hover:bg-blue-50 transition-colors"
+            >
+              Admin Dashboard
+            </Link>
           </div>
         </div>
 
