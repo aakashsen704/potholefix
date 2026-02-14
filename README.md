@@ -531,8 +531,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Aakash Sen**
-- GitHub: [@yourusername](https://github.com/aakashsen704)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aakash-sen-480627331/)
+- GitHub: [@AakashSen](https://github.com/aakashsen704)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aakash-sen-480627331/)
 - Email: senaakash237@gmail.com
 
 ---
