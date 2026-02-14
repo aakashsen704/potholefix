@@ -2,7 +2,7 @@
 
 > A modern web application that empowers citizens to report road potholes to municipal authorities, streamlining infrastructure maintenance and improving community engagement.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://your-demo-url.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://potholefix.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ![PotholeFix Banner](https://via.placeholder.com/1200x400/3B82F6/FFFFFF?text=PotholeFix+Platform)
